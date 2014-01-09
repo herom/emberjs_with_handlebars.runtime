@@ -1,0 +1,33 @@
+{
+  "camelcase": true,
+  "white": false,
+  "curly": true,
+  "eqeqeq": true,
+  "immed": true,
+  "latedef": true,
+  "newcap": true,
+  "noarg": true,
+  "sub": true,
+  "undef": true,
+  "boss": true,
+  "eqnull": true,
+  "browser": true,
+  "evil": false,
+  "globals": {
+    "test": true,
+    "equal": true,
+    "ok": true,
+    "sinon": true,
+    "require": true,
+    "Ember": true,
+    "Em": true,
+    "Handlebars": true,
+    "Todos": true,
+    "RAApp": true,
+    "AppInitParams": true,
+    "$": true,
+    "jQuery": true,
+    "Server": true,
+    "moment": true
+  }
+}
